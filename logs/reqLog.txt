@@ -114,3 +114,5 @@
 20230129	15:48:31	ea638cbe-fd9b-4e13-a298-42f8939d7b5a	GET	undefined	/employees
 20230129	15:50:22	3796697b-aba5-42cb-b2b7-de297c7f4e06	PUT	undefined	/employees
 20230129	15:52:30	5530a98d-17ce-48b4-973f-84673e96f273	GET	undefined	/employees/1
+20230129	16:12:36	53b225fa-d2dc-4bd2-83cc-f05f76aa7f0b	GET	undefined	/employees/1
+20230129	16:12:42	cfe34a39-cb04-45f3-bdd2-78f822472719	GET	undefined	/employees
