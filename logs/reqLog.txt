@@ -129,3 +129,6 @@
 20230129	19:04:30	59ef5979-a85c-4430-a0af-b1cc20a550a4	POST	undefined	/register
 20230129	19:04:38	059ebeeb-aee8-41c1-9a9a-c0d58da754e9	POST	undefined	/register
 20230129	19:04:50	0b819baf-80dc-4358-83fe-ceae013b7e5c	POST	undefined	/register
+20230129	20:25:19	c9d48a3e-4f26-4753-a958-3b46a0455716	POST	undefined	/register
+20230129	20:25:41	28c27884-cd49-48fc-8197-733df8143e3b	POST	undefined	/auth
+20230129	20:40:02	5caf3936-e38f-48e2-9244-036c38568bc4	POST	undefined	/auth
