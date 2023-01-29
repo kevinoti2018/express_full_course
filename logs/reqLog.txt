@@ -116,3 +116,16 @@
 20230129	15:52:30	5530a98d-17ce-48b4-973f-84673e96f273	GET	undefined	/employees/1
 20230129	16:12:36	53b225fa-d2dc-4bd2-83cc-f05f76aa7f0b	GET	undefined	/employees/1
 20230129	16:12:42	cfe34a39-cb04-45f3-bdd2-78f822472719	GET	undefined	/employees
+20230129	16:28:01	140036d2-f345-4703-a0c8-ec09fcbbaeea	GET	undefined	/employees
+20230129	17:25:26	909dde99-129c-42cc-bc96-0b963dc2762d	GET	undefined	/css/style.css
+20230129	17:31:22	bc6cd541-2c58-4841-8fbe-a0317c50138c	GET	undefined	/register
+20230129	17:35:32	d76e149e-aff9-42d9-b7fb-d857a0319b08	POST	undefined	/resgister
+20230129	17:36:26	221714db-c2d8-4d5f-bca9-90b6e2240ca7	POST	undefined	/register
+20230129	17:38:46	ca524481-a910-46c6-93f4-52ed2dc50785	POST	undefined	/resgister
+20230129	17:38:47	f6243e91-69a0-47d8-a497-5daebda1d425	POST	undefined	/resgister
+20230129	17:38:48	f12cfd1f-ceb6-4658-b188-a51b1647b52c	POST	undefined	/resgister
+20230129	17:38:48	d5871714-f8b8-47a5-b39f-444e1792a976	POST	undefined	/resgister
+20230129	17:59:37	c88841a4-4bb4-4e27-b8b1-92dfce9d3665	POST	undefined	/register
+20230129	19:04:30	59ef5979-a85c-4430-a0af-b1cc20a550a4	POST	undefined	/register
+20230129	19:04:38	059ebeeb-aee8-41c1-9a9a-c0d58da754e9	POST	undefined	/register
+20230129	19:04:50	0b819baf-80dc-4358-83fe-ceae013b7e5c	POST	undefined	/register
